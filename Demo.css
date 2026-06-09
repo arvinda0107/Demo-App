@@ -1,0 +1,10 @@
+h1{
+    color: red;
+}
+h2{
+    border: 2px solid black;
+    width: fit-content;
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 10px;
+}
